@@ -1,0 +1,17 @@
+{
+    "krishnasree66@gmail.com": {
+        "name": "krishna sree",
+        "phn": "9876543210",
+        "email": "krishnasree66@gmail.com",
+        "address": "Banglore, Karnataka",
+        "password": "krishna66$",
+        "orders": [
+            {
+                "11/02/2024, 06:22:16": [
+                    "1",
+                    "3"
+                ]
+            }
+        ]
+    }
+}
